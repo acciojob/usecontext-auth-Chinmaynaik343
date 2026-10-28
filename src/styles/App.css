@@ -1,1 +1,27 @@
 
+.auth-container {
+  text-align: center;
+  margin: 50px auto;
+  padding: 25px;
+  max-width: 350px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-family: Arial, sans-serif;
+}
+
+.auth-container h2 {
+  margin-bottom: 20px;
+}
+
+.auth-container label {
+  cursor: pointer;
+}
+
+.auth-container input {
+  margin-right: 8px;
+}
+
+.auth-container p {
+  margin-top: 20px;
+}
+
